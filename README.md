@@ -5,4 +5,4 @@ Daily Coding Problem, solving
     Calculate the interfer exponentiation in a faster way than the naive one ( i.e multiplication repetition)
 
 - remove_null_leaf_tree.js :
-    Remove all leaf with the value of zero in a tree
+    Remove all leafs with the value of zero in a tree
