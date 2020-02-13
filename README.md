@@ -6,3 +6,5 @@ Daily Coding Problem, solving
 
 - remove_null_leaf_tree.js (p5.js) :
     Remove all leafs with the value of zero in a tree
+    
+- goldbacks_conjecture.js (node.js) : we take an input (>= 2), and we give two prime number that sums up to the input
