@@ -10,3 +10,5 @@ Daily Coding Problem, solving
 - goldbacks_conjecture.js (node.js) : we take an input (>= 2), and we give two prime number that sums up to the input
 
 - balanced_parentheses.js (node.js) : take a string as input, which only contains '(' , ')' and ' * '. The character ' * ' can represent either a '(' or ')' . And it return a status that state if the input is balanced or not.
+
+- fibonacci_sequence_linear.js (node.js) : return the n-th value in the fibonacci in O(1) complexity
