@@ -13,6 +13,3 @@ Daily Coding Problem, solving
 
 - **fibonacci_sequence_linear.js (node.js)** : return the n-th value in the fibonacci in O(1) complexity
 
-```
-some test
-```
