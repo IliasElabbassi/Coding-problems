@@ -9,7 +9,7 @@ function balanced(input) {
 	num_left_parentheses = 0  // number of ')'
 	num_stars = 0 			  // number of '*'
 	
-	if(input[0] == ')') // should not star with ')'
+	if(input[0] == ')') // should not start with ')'
 		return false
 
 	if(input[input.length-1] == '(') // should not end with a '('
