@@ -1,5 +1,5 @@
 /**
-	return the n'th value in the fibonacci in O(1) complexity
+	return the n-th value in the fibonacci in O(1) complexity
 */
 
 function fibonacci(n) {
