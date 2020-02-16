@@ -2,7 +2,7 @@
 Daily Coding Problem, solving
 
 ```
-You can executre most of the files with node.js
+You can run most of the files with node.js
 ```
 
 - **fastest_power.js** :
