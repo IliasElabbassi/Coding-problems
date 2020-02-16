@@ -1,9 +1,10 @@
 # Coding-problems
 Daily Coding Problem, solving
 
-```
 You can run most of the files with node.js
-using : node <name of the file>
+using :
+```
+ node <name of the file>
 ```
 
 - **fastest_power.js** :
